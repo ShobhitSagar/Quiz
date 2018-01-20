@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IQQ</string>
+    <string name="iqq1">Which number logically follows this series 4, 6, 9, 6, 14, 6...</string>
+    <string name="ans1">IQQ</string>
+    <string name="iqq2">Choose the number that is 1/4 of 1/2 of 1/5 of 200:</string>
+    <string name="ans2">IQQ</string>
+    <string name="iqq3">Which one of the choices makes the best comparison?\nFinger is to Hand as Leaf is to:</string>
+    <string name="ans3">IQQ</string>
+    <string name="iqq4">I\'m a male. If Albert\'s son is my son\'s father, what is the relationship between Albert and me?</string>
+    <string name="ans4">IQQ</string>
+    <string name="iqq5">Which one of the five is least like the other four?</string>
+    <string name="ans5">IQQ</string>
+    <string name="iqq6">Which one of the choices makes the best comparison?\nPEACH is to HCAEP as 46251 is to:</string>
+    <string name="ans6">IQQ</string>
+    <string name="iqq7">Ralph likes 25 but not 24; he likes 400 but not 300; he likes 144 but not 145.Which does he like:</string>
+    <string name="ans7">IQQ</string>
+    <string name="iqq8">There are 12 pens on the table, you took 3, how many do you have?</string>
+    <string name="ans8">IQQ</string>
+    <string name="iqq9">If you rearrange the letters \"TOOKY\", you would have the name of a/an:</string>
+    <string name="ans9">IQQ</string>
+    <string name="iqq10">Which one of the numbers does not belong in the following series?\n1 - 2 - 5 - 10 - 13 - 26 - 29 - 48</string>
+    <string name="ans10">IQQ</string>
+    <string name="iqq11">Please enter the missing number: 4, 8, 14, 22, </string>
+    <string name="ans11">IQQ</string>
+    <string name="iqq12">Which number should come next in the series?</string>
+    <string name="ans12">IQQ</string>
+    <string name="iqq13">What is the missing number in the sequence shown below?\n1 - 8 - 27 - ? - 125 - 216</string>
+    <string name="ans13">IQQ</string>
+    <string name="iqq14">Please enter the missing number: 3, 6, 18, 72, ?</string>
+    <string name="ans14">IQQ</string>
+    <string name="iqq15">Which one of the following things is the least like the others?</string>
+    <string name="ans15">IQQ</string>
+</resources>
